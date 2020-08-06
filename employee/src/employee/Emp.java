@@ -12,7 +12,10 @@ public class Emp {
 		System.out.println("hello emp");
 		
 	}
-	
+	public static void show3() {
+		System.out.println("hello emp");
+		
+	}
 	
 	public static void main(String[] args) {
 		show();
