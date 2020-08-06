@@ -12,6 +12,10 @@ public class Emp {
 		System.out.println("hello emp");
 		
 	}
+	public static void show4() {
+		System.out.println("hello emp");
+		
+	}
 	
 	
 	public static void main(String[] args) {
