@@ -26,6 +26,10 @@ public class Emp {
 		System.out.println("hello emp");
 		
 	}
+	public static void show7() {
+		System.out.println("hello emp");
+		
+	}
 	
 
 	
