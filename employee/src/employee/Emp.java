@@ -22,6 +22,10 @@ public class Emp {
 		System.out.println("hello emp");
 		
 	}
+	public static void show5() {
+		System.out.println("hello emp");
+		
+	}
 	
 
 	
